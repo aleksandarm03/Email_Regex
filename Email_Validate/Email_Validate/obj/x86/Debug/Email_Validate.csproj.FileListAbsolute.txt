@@ -1,0 +1,8 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\Email_Validate\bin\Debug\Email_Validate.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Email_Validate\bin\Debug\Email_Validate.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\Email_Validate\obj\x86\Debug\Email_Validate.csprojResolveAssemblyReference.cache
+C:\Users\aleks\AppData\Local\Temporary Projects\Email_Validate\obj\x86\Debug\Email_Validate.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Email_Validate\obj\x86\Debug\Email_Validate.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Email_Validate\obj\x86\Debug\Email_Validate.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\Email_Validate\obj\x86\Debug\Email_Validate.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Email_Validate\obj\x86\Debug\Email_Validate.pdb
